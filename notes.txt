@@ -1,0 +1,23 @@
+Pages:
+-Home
+  -Big Image taking up 2/3 of the screen with the company name and Logo positioned in the middle. 
+  -Links to the different pages will be shown in the bottom third of the pages
+  -Scroll down to reveal a small gallery of some photos of the interior and food items(?).
+   
+-Menu
+  -Images centered on page 
+
+-Location
+  -1 Something Ave, Town, City, 8011
+  -Google Maps plugin (Centered)
+  -Hours: 
+    Weekdays: 6am–3pm
+    Weekends: Closed
+    
+-Contact
+  -"Any suggestions or comments you would like us to hear?"
+  -Text form
+    -name
+    -phone
+    -email
+    -query
