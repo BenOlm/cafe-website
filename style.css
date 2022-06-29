@@ -1,3 +1,32 @@
+/*
+rem for main text
+em for things around main text: icons, button padding, secondary text in :before etc.
+px for anything else
+*/
+
 * {
   font-family: 'Merriweather', serif;
 }
+
+.cafe-name {
+  color: white;
+  font-size: 6rem;
+  font-weight: 300;
+}
+
+.cafe-blurb {
+  color: white;
+  font-size: 2rem;
+}
+
+.cafe-name2 {
+  font-size: 2.6rem;
+  font-weight: 300;
+}
+
+.navigation .link {
+  color: black;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
