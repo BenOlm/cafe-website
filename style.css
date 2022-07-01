@@ -6,6 +6,11 @@ px for anything else
 
 * {
   font-family: 'Merriweather', serif;
+  
+}
+
+:not(.cafe-name, .cafe-blurb) {
+  background-color: #f5f5f5;
 }
 
 .cafe-name {
@@ -30,3 +35,6 @@ px for anything else
   text-decoration: none;
 }
 
+.location-info {
+  font-size: 1.2rem;
+}
